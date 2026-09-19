@@ -20,12 +20,12 @@
 html, body {
     font-family: var(--font1);
     min-height: 100vh;
-    background-color: darkgray;
+    background-color: #ff69b4;
 }
 
 header{
 
-    background-color: black;
+    background-color: #ff1493;
     color: white;
     text-align: center;
     border: none;
@@ -87,7 +87,7 @@ section#img02 {
 }
 
 footer {
-    background-color: black;
+    background-color: #ff1493;
     color: white;
     text-align: center;
     padding: 10px;
@@ -95,7 +95,7 @@ footer {
 }
  a {
     font-size: 12px;
-    color: gray;
+    color: #ff69b4;
     content: '\00A0\1F517';
 }
 
